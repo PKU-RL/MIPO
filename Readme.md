@@ -2,6 +2,9 @@
 
 See [GATA](https://github.com/xingdi-eric-yuan/GATA-public) for more detials
 
+## Dataset:
+Generate dataset for [TextWorld Cooking Game](https://textworld.readthedocs.io/en/stable/textworld.challenges.cooking.html)
+
 ## Execution:
 
 ```shell
